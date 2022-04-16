@@ -1,6 +1,6 @@
 # The Income and Expense Calculator  
 
-##[DEMO page](https://mastermind-777.github.io/calculatorApp_JS/)
+## [DEMO page](https://mastermind-777.github.io/calculatorApp_JS/)
 
 This application allows you to calculate the amount of monthly and daily expenses. You can also calculate the amount of savings for a month and for a year. 
 
