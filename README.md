@@ -1,4 +1,6 @@
-## The Income and Expense Calculator
+# The Income and Expense Calculator  
+
+## DEMO page: 
 
 This application allows you to calculate the amount of monthly and daily expenses. You can also calculate the amount of savings for a month and for a year. 
 
